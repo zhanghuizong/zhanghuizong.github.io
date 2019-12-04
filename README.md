@@ -1,3 +1,2 @@
-# 开始发发发
+# ARTS计划
 
-> An awesome project.
