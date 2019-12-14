@@ -9,27 +9,27 @@
     <link rel="stylesheet" href="//unpkg.com/docsify/lib/themes/vue.css">
 </head>
 <body>
-<div id="app"></div>
+<div id="app">加载中</div>
 </body>
 <script>
     window.$docsify = {
-        name: '首页',
-        repo: 'https://github.com/zhanghuizong',
+        name       : '首页',
+        repo       : 'https://github.com/zhanghuizong',
         loadSidebar: true,
         subMaxLevel: 3,
-        loadNavbar: true,
+        loadNavbar : true,
         mergeNavbar: true,
-        auto2top: true,
-        search: {
-            noData: {
-                '/': '没有结果',
+        auto2top   : true,
+        search     : {
+            noData     : {
+                '/': '没有结果'
             },
-            paths: 'auto',
+            paths      : 'auto',
             placeholder: {
-                '/': '搜索',
+                '/': '搜索'
             }
-        },
-    }
+        }
+    };
 </script>
 <script src="//unpkg.com/docsify/lib/docsify.min.js"></script>
 <script src="//cdn.jsdelivr.net/npm/docsify@latest/lib/plugins/search.min.js"></script>
