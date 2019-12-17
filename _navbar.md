@@ -1,3 +1,0 @@
-- 语言
-  - [Arts](/arts/)
-  - [Docker](/docker/)

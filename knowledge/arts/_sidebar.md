@@ -1,0 +1,2 @@
+- Arts.1
+  - [两数之和](/knowledge/artsledge/arts/1.md)
