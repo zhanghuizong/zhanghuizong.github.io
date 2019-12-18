@@ -1,2 +1,0 @@
-- 计算机网络
-  - [网络层](/knowledge/computer/1.md)

@@ -1,6 +1,5 @@
-* [计算机](knowledge/computer/)
-* [编程语言](knowledge/arts/)
-* [开发工具](knowledge/arts/)
-* [设计模式](knowledge/arts/)
-* [操作系统](knowledge/arts/)
-
+* [1. 计算机](/docs/computer/)
+* [2. 编程语言](/docs/develop/)
+* [3. 开发工具](/docs/develop/)
+* [4. 设计模式](/docs/develop/)
+* [5. 操作系统](/docs/develop/)
